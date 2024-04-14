@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "name": "Item_1",
+            "value": 20,
+            "description": "None",
+            "inventory": "None",
+            "duration": "None",
+            "stock": "None",
+            "role_required": "None",
+            "role_given": "None",
+            "role_removed": "None",
+            "required_balance": "None",
+            "reply": "None",
+            "role-required": "1229189088976961597"
+        }
+    ],
+    "min-max-payout": [
+        {
+            "minwork": 0,
+            "maxwork": 20,
+            "mincrime": 0,
+            "maxcrime": 20,
+            "minslut": 0,
+            "maxslut": 20
+        }
+    ],
+    "min-max-fail": [
+        {
+            "mincrime": 0,
+            "maxcrime": 20,
+            "minslut": 0,
+            "maxslut": 20
+        }
+    ],
+    "replys-win": [
+        {
+            "work": [],
+            "crime": [],
+            "slut": []
+        }
+    ],
+    "replys-fail": [
+        {
+            "crime": [],
+            "slut": []
+        }
+    ],
+    "reply-count": 0,
+    "users": [],
+    "coin": ":pizza:"
+}
